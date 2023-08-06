@@ -1,3 +1,6 @@
+# this is a test credentials 
+# username=test
+# password= test
 class EclipseCore:
     def __init__(self):
         # Initialize core components
