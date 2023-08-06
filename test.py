@@ -1,4 +1,3 @@
-# test code 
 class EclipseCore:
     def __init__(self):
         # Initialize core components
