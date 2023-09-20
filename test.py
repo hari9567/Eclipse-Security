@@ -23,6 +23,7 @@ class DataHandler:
 
 # Usage example:
 #token: 53974b42220b59eab5185630da896b74
+#project: 2677298
 data_handler = DataHandler()
 data_handler.save_data({"key": "value"})
 
@@ -31,7 +32,6 @@ data_handler.save_data({"key": "value"})
 from sklearn.linear_model import LinearRegression
 
 # Sample data
-#project: 2677298
 X = [[1], [2], [3], [4], [5]]
 y = [2, 4, 5, 4, 5]
 
