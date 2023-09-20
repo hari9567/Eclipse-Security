@@ -1,4 +1,4 @@
-#pivotaltracker 
+ 
 class EclipseCore:
     def __init__(self):
         # Initialize core components
@@ -22,8 +22,7 @@ class DataHandler:
         pass
 
 # Usage example:
-#token: 53974b42220b59eab5185630da896b74
-#project: 2677298
+
 data_handler = DataHandler()
 data_handler.save_data({"key": "value"})
 
